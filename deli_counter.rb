@@ -1,9 +1,16 @@
 # Write your code here.
-var katzDeliLine = [];
+katzDeliLine = [];
+
+def
+line = []
+if persons_in_line.length == 0
+  puts "The line is currently empty"
+elsif 
+end
 
 function currentLine(katzDeliLine) {
     var line = []
-    if (x.length === 0) {
+    if (personsInLine.length === 0) {
       return "The line is currently empty."
     } else {
       for(var i = 0; i < x.length; i++) {
